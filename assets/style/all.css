@@ -11629,6 +11629,10 @@ a, a:link, a:visited {
   display: block;
 }
 
+.section_status span.material-icons {
+  cursor: pointer;
+}
+
 .table_ctrl thead td {
   padding-bottom: 0;
 }
